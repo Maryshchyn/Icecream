@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://superbowl-alex.github.io/crew",
+  "homepage": "https://Maryshchyn.github.io/Icecream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /crew/"
+    "build": "parcel build src/*.html --public-url /Icecream/"
   },
   "repository": {
     "type": "git",
